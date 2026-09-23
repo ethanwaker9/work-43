@@ -1,4 +1,4 @@
-# F2LD: Hint-Aware Dual Lattice Attacks on Embedded Systems
+# F2LD: Efficient Dual Lattice Attacks on Embedded Systems
 
 This repository contains the implementation and benchmarks for efficient side-channel dual lattice key recovery on embedded systems. Our code implements the F2LD distinguisher together with the four existing dual-attack distinguishers it is compared against, and
 validates end-to-end key recovery on real reduced lattices.
