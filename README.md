@@ -46,8 +46,8 @@ This builds all benchmarks into `bench/`. To check correctness:
 
 ## Running the Experiments
 ```
-bash scripts/run_all.sh        # writes results/*.csv
-python3 scripts/plots.py       # writes ../final_paper/figs/*.eps
+bash scripts/run_all.sh        
+python3 scripts/plots.py       
 ```
 `run_all.sh` runs the kernel microbenchmark, the hint sweep, the
 success versus samples experiment, the Kyber estimator, the Cortex-M4 footprint,
